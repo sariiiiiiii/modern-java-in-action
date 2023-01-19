@@ -1,4 +1,4 @@
-package com.study.modernjavainaction.completableFuture;
+package com.study.modernjavainaction.completableFuture.concurrent;
 
 public class ConcurrentProgramming {
 
